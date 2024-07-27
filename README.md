@@ -16,8 +16,8 @@ FinFlex is a modern, responsive web application built using React and Tailwind C
 - **Tailwind CSS**: Used for styling and ensuring a responsive and attractive design. 🎨
 - **Flexbox**: Mastery of CSS Flexbox for layout management. 📐
 - **Animations and Gradients**: Applied soft animations and gradients for an enhanced user experience. 🌈
-- **Media Queries**: Implemented for ensuring responsiveness on various screen sizes. 📏
+- **Media Queries**: Implemented to ensure responsiveness on various screen sizes. 📏
 
 ## Live Link
 
-[Check out the live version of FinFlex here!]() 🚀
+[Check out the live version of FinFlex here!](https://finflex-xi.vercel.app/) 🚀
